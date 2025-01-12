@@ -8,7 +8,7 @@ export const styles = {
         justifyContent: "space-between"
     },
     containerLogo: {
-        alignItems: "center"
+        alignItems: "center",
     },
     logo: {
         width: 100,
