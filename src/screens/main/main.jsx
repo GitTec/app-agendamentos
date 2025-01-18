@@ -1,4 +1,4 @@
-import { Image } from "react-native";
+import { Image, Text } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import icon from "../../constants/icon";
